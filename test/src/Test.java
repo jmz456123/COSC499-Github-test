@@ -10,7 +10,7 @@ public class Test {
 		testSumUp(testArray,testSumResult );
 
 	}
-	
+	// make change
 	// this is test
 	public static void testSort(int [] testArray, int [] testArrayResult) {
 		SortArray test = new SortArray();
